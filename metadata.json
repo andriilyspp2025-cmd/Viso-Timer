@@ -1,0 +1,5 @@
+{
+  "name": "VisoTime",
+  "description": "A streamlined time tracking application for managing project hours with daily limits and validation.",
+  "requestFramePermissions": []
+}
